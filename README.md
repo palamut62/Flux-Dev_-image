@@ -84,7 +84,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 Your Name - [palamut62](https://x.com/palamut62) - umutcelik6230@gmail.com
 
-Project Link: [https://github.com/your-username/flux-dev-image-generator]([https://github.com/your-username/flux-dev-image-generator](https://github.com/palamut62/Flux-Dev_-image/tree/main))
+Project Link: [https://github.com/your-username/flux-dev-image-generator](https://github.com/palamut62/Flux-Dev_-image/tree/main)
 
 ## Teşekkürler
 
