@@ -42,7 +42,7 @@ Bu Streamlit uygulaması, Replicate'in black-forest-labs/flux-dev modelini kulla
 
 1. Uygulamayı başlatın:
    ```
-   streamlit run app.py
+   streamlit run to_image.py
    ```
 
 2. Web tarayıcınızda `http://localhost:8501` adresine gidin.
