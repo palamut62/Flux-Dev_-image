@@ -2,7 +2,7 @@
 
 Bu Streamlit uygulaması, Replicate'in black-forest-labs/flux-dev modelini kullanarak metin açıklamalarından resimler oluşturmanıza olanak tanır. Kullanıcı dostu bir arayüz ile çeşitli parametreleri ayarlayabilir ve özelleştirilmiş resimler oluşturabilirsiniz.
 
-![Uygulama Ekran Görüntüsü](screenshot.png)
+![Uygulama Ekran Görüntüsü](fluxdev.png)
 
 ## Özellikler
 
