@@ -17,8 +17,8 @@ Bu Streamlit uygulaması, Replicate'in black-forest-labs/flux-dev modelini kulla
 
 1. Bu repository'yi klonlayın:
    ```
-   git clone https://github.com/your-username/flux-dev-image-generator.git
-   cd flux-dev-image-generator
+   git clone git@github.com:palamut62/Flux-Dev_-image.git
+   cd texttoimageSA
    ```
 
 2. (Opsiyonel) Sanal bir ortam oluşturun ve etkinleştirin:
